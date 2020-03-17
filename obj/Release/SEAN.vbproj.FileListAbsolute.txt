@@ -1,0 +1,36 @@
+F:\1 - Programs\0 - Libraries\SEAN\bin\Release\SEAN.dll
+F:\1 - Programs\0 - Libraries\SEAN\bin\Release\SEAN.pdb
+F:\1 - Programs\0 - Libraries\SEAN\bin\Release\SEAN.xml
+F:\1 - Programs\0 - Libraries\SEAN\obj\Release\Interop.ADOX.dll
+F:\1 - Programs\0 - Libraries\SEAN\obj\Release\SEAN.vbproj.ResolveComReference.cache
+F:\1 - Programs\0 - Libraries\SEAN\obj\Release\SEAN.frmWorkersBuffer.resources
+F:\1 - Programs\0 - Libraries\SEAN\obj\Release\SEAN.Resources.resources
+F:\1 - Programs\0 - Libraries\SEAN\obj\Release\SEAN.MySQL_Configuration.resources
+F:\1 - Programs\0 - Libraries\SEAN\obj\Release\SEAN.vbproj.GenerateResource.Cache
+F:\1 - Programs\0 - Libraries\SEAN\obj\Release\SEAN.dll
+F:\1 - Programs\0 - Libraries\SEAN\obj\Release\SEAN.xml
+F:\1 - Programs\0 - Libraries\SEAN\obj\Release\SEAN.pdb
+F:\1 - Programs\0 - Libraries\SEAN\obj\Release\SEAN.SQLite_Configuration.resources
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\bin\Release\SEAN.dll
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\bin\Release\SEAN.pdb
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\bin\Release\SEAN.xml
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\bin\Release\EntityFramework.dll
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\bin\Release\EntityFramework.SqlServer.dll
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\bin\Release\MySql.Data.dll
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\bin\Release\SocialExplorer.FastDBF.dll
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\bin\Release\System.Data.SQLite.dll
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\bin\Release\EntityFramework.xml
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\bin\Release\EntityFramework.SqlServer.xml
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\bin\Release\MySql.Data.xml
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\bin\Release\SocialExplorer.FastDBF.pdb
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\bin\Release\System.Data.SQLite.xml
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\obj\Release\Interop.ADOX.dll
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\obj\Release\SEAN.vbproj.ResolveComReference.cache
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\obj\Release\SEAN.frmWorkersBuffer.resources
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\obj\Release\SEAN.Resources.resources
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\obj\Release\SEAN.SQLite_Configuration.resources
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\obj\Release\SEAN.MySQL_Configuration.resources
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\obj\Release\SEAN.vbproj.GenerateResource.Cache
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\obj\Release\SEAN.dll
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\obj\Release\SEAN.xml
+E:\Sean Ivan\PROGRAMS\Libraries\SEAN\obj\Release\SEAN.pdb
