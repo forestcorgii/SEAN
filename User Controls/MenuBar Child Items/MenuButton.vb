@@ -2,6 +2,12 @@
 
 
 Public Class MenuButton
+    Implements IComponent, IDisposable
+
+
+
+
+
     Private _iconSize As Integer = 32
 
     Public Property IconSize As Integer

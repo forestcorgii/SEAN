@@ -1,12 +1,14 @@
 ﻿Imports System.ComponentModel
 
 Public Class MenuBar
+    Inherits System.Windows.Forms.Control
     Private _Menus As New MenuCollection
 
     <DesignerSerializationVisibility(DesignerSerializationVisibility.Visible)>
     Public Property Menus As MenuCollection
         Get
             If _Menus Is Nothing Then
+                MsgBox("asda")
                 _Menus = New MenuCollection
             End If
             Return _Menus

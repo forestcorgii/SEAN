@@ -435,15 +435,6 @@ Public Class DatabaseManagement
 
 
 
-
-
-
-
-
-
-
-
-
     '#Region "SQLite"
     '    Public Const SQLiteConfigFileExtension = ".sqlite.config.xml"
     '    <XmlRoot("SQLiteConfiguration")> Public Class SQLiteConfiguration

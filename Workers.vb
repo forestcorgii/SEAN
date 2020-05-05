@@ -110,6 +110,8 @@ Public Class Workers
     End Sub
 
     Public Sub AddRangetoQueue(args As List(Of Object))
+        If args.Count = 0 Then Exit Sub
+
         QueueArgs.AddRange(args)
         If Not ticking Then
             StartWorking()

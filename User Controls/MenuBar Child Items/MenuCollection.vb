@@ -1,7 +1,7 @@
 ﻿Imports System.ComponentModel
 
 Public Class MenuCollection
-    Inherits System.Windows.Forms.BaseCollection
+    Inherits CollectionBase
     Implements ICollection, IList, IEnumerable
 
     'Public Shadows Sub Add(_menu As MenuButton)

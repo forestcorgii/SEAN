@@ -1,6 +1,6 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
 Partial Class MenuBar
-    Inherits System.Windows.Forms.UserControl
+    Inherits System.Windows.Forms.Control
 
     'UserControl overrides dispose to clean up the component list.
     <System.Diagnostics.DebuggerNonUserCode()> _
@@ -46,8 +46,6 @@ Partial Class MenuBar
         '
         'MenuBar
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
-        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.Controls.Add(Me.tbpnMenuSeperator)
         Me.Name = "MenuBar"
         Me.Size = New System.Drawing.Size(350, 37)

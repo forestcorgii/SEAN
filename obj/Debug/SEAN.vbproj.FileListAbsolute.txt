@@ -69,3 +69,42 @@ E:\Sean Ivan\PROGRAMS\Libraries\SEAN\obj\Debug\SEAN.vbproj.GenerateResource.Cach
 E:\Sean Ivan\PROGRAMS\Libraries\SEAN\obj\Debug\SEAN.dll
 E:\Sean Ivan\PROGRAMS\Libraries\SEAN\obj\Debug\SEAN.xml
 E:\Sean Ivan\PROGRAMS\Libraries\SEAN\obj\Debug\SEAN.pdb
+C:\Projects\Libraries\SEAN\bin\Debug\SEAN.dll
+C:\Projects\Libraries\SEAN\bin\Debug\SEAN.pdb
+C:\Projects\Libraries\SEAN\bin\Debug\SEAN.xml
+C:\Projects\Libraries\SEAN\obj\Debug\Interop.ADOX.dll
+C:\Projects\Libraries\SEAN\obj\Debug\SEAN.vbproj.ResolveComReference.cache
+C:\Projects\Libraries\SEAN\obj\Debug\SEAN.frmWorkersBuffer.resources
+C:\Projects\Libraries\SEAN\obj\Debug\SEAN.Resources.resources
+C:\Projects\Libraries\SEAN\obj\Debug\SEAN.SQLite_Configuration.resources
+C:\Projects\Libraries\SEAN\obj\Debug\SEAN.MySQL_Configuration.resources
+C:\Projects\Libraries\SEAN\obj\Debug\SEAN.MenuButton.resources
+C:\Projects\Libraries\SEAN\obj\Debug\SEAN.MenuBar.resources
+C:\Projects\Libraries\SEAN\obj\Debug\SEAN.vbproj.GenerateResource.cache
+C:\Projects\Libraries\SEAN\obj\Debug\SEAN.vbproj.CoreCompileInputs.cache
+C:\Projects\Libraries\SEAN\obj\Debug\SEAN.vbproj.CopyComplete
+C:\Projects\Libraries\SEAN\obj\Debug\SEAN.dll
+C:\Projects\Libraries\SEAN\obj\Debug\SEAN.xml
+C:\Projects\Libraries\SEAN\obj\Debug\SEAN.pdb
+C:\1 - Source Codes\Libraries\SEAN\bin\Debug\SEAN.dll
+C:\1 - Source Codes\Libraries\SEAN\bin\Debug\SEAN.pdb
+C:\1 - Source Codes\Libraries\SEAN\bin\Debug\SEAN.xml
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\Interop.ADOX.dll
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\SEAN.vbproj.ResolveComReference.cache
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\SEAN.frmWorkersBuffer.resources
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\SEAN.Resources.resources
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\SEAN.SQLite_Configuration.resources
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\SEAN.MySQL_Configuration.resources
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\SEAN.MenuButton.resources
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\SEAN.MenuBar.resources
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\SEAN.vbproj.GenerateResource.cache
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\SEAN.vbproj.CoreCompileInputs.cache
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\SEAN.vbproj.CopyComplete
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\SEAN.dll
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\SEAN.xml
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\SEAN.pdb
+C:\2 - Bins\SEAN\SEAN.dll.config
+C:\2 - Bins\SEAN\SEAN.dll
+C:\2 - Bins\SEAN\SEAN.pdb
+C:\2 - Bins\SEAN\SEAN.xml
+C:\1 - Source Codes\Libraries\SEAN\obj\Debug\SEAN.vbprojResolveAssemblyReference.cache
