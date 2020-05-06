@@ -109,7 +109,7 @@ Public Class Workers
         End If
     End Sub
 
-    Public Sub AddRangetoQueue(args As List(Of Object))
+    Public Sub AddRangetoQueue(args As IEnumerable(Of Object))
         If args.Count = 0 Then Exit Sub
 
         QueueArgs.AddRange(args)
