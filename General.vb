@@ -18,6 +18,7 @@ Public Class General
     End Class
 
 
+
     Public Class Dialogs
         Public Shared Function OpenFileDialogShortcut(Optional filter As String = "*", Optional title As String = "", Optional multiSelect As Boolean = True, Optional filename As String = "")
             Dim tmpOFD As New OpenFileDialog
